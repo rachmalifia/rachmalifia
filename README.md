@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is **Rachma Alifia**, and I am currently studying at Universitas Pendidikan Indonesia, majoring in Computer Science Education
+
 <!--
 **rachmalifia/rachmalifia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
